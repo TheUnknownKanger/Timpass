@@ -5,7 +5,7 @@ import sys
 from git import Repo
 from git.exc import GitCommandError, InvalidGitRepositoryError, NoSuchPathError
 import heroku3
-from Luna import OWNER_ID, tbot
+from MashaRoBot import OWNER_ID, tbot
 
 
 UPSTREAM_REPO_URL = "https://github.com/TheUnknownKanger/Timpass"
