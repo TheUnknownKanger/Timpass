@@ -1,6 +1,6 @@
 # © @Mr_Dark_Prince
 
-__mod_name__ = "▫️MASHAROBOT SPECIAL TOOLS▫️"
+__mod_name__ = "▫️LUNDBOT SPECIAL TOOLS▫️"
 
 __help__ = """
  ❍ /song [song name] :uploads the song in it's best quality available
@@ -8,6 +8,6 @@ __help__ = """
 
  ❍ /github [username] :Get information about a GitHub user.
 
- ❍ Masha [query] Masha answers the query
-  💡Ex `Masha where is India?`
+ ❍ Masha [query] LUND answers the query
+  💡Ex `SKEM where is India?`
 """
